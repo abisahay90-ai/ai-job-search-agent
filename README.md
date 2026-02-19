@@ -53,7 +53,7 @@ A browser window will open to connect your Gmail. After that it runs automatical
 
 Built by Abhishek Sahay — Product Leader with 10 years experience, staying hands-on with AI tools.
 
-Connect with me on [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/abisahay/)
 
 ## License
 MIT — free to use and modify
