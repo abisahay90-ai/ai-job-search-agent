@@ -2,7 +2,7 @@
 Product Vision: To eliminate the "administrative tax" of the job search, allowing high-level professionals to spend 100% of their cognitive energy on interviews and relationship building, not inbox management.
 
 💡 Why I Built This (The Problem)
-In a modern job search, the "mental load" is the silent productivity killer. As a Product Leader with 20 years of experience, I noticed a recurring friction point: Information Fragmentation.
+In a modern job search, the "mental load" is the silent productivity killer. As a Product Leader with 14 years of experience, I noticed a recurring friction point: Information Fragmentation.
 
 Between LinkedIn pings, recruiter emails, and automated portal updates, the signal-to-noise ratio in a Gmail inbox is incredibly low. I found myself spending 60+ minutes every morning just "sorting" before I could actually "work."
 
