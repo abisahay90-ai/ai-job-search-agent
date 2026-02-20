@@ -103,7 +103,7 @@ You have an interview tomorrow (Thursday, February 19, 2026) at 1:00 PM EST
 
 ## Author
 
-Built by Abhishek Sahay — Product Leader with 10 years experience, staying hands-on with AI tools.
+Built by Abhishek Sahay — Product Leader with 14 years experience, staying hands-on with AI tools.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/abisahay/)
 
