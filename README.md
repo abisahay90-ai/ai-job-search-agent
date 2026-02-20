@@ -47,7 +47,16 @@ A browser window will open to connect your Gmail. After that it runs automatical
 
 ## Sample Output
 
-![Sample Briefing](sample_report.png)
+Here are the updates you requested:
+
+📊 QUICK STATS:
+- Job emails: 7 (including interview reminders and job openings)
+- Networking emails: 2
+- Rejection emails: 0
+- Interview emails: 5
+
+🔥 URGENT:
+You have an interview tomorrow (Thursday, February 19, 2026) at 1:00 PM EST
 
 ## Author
 
